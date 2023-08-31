@@ -1,5 +1,5 @@
 # Minesweeper
-a simple minesweeper game in c
+A simple minesweeper game in c
 works on linux only!!
 For those who dont know the rules of the game here is a small tutorial:
 https://minesweepergame.com/strategy/how-to-play-minesweeper.php
