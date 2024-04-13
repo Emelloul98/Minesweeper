@@ -75,5 +75,5 @@ J  _ _ _ _ _ _ _ _ _ _
 
 Enter command (WASD to move, Space to reveal, F to flag): 
 ```
-
+![Image Alt Text](https://github.com/Emelloul98/Minesweeper/blob/main/Example.png)
 ---
